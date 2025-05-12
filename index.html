@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HUMOTO</title>
-    <link rel="icon" href="static/favicon/favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="static/favicon/favicon.ico" type="image/x-icon">
+    <!-- <link rel="icon" href="static/favicon/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="static/favicon/favicon.ico" type="image/x-icon"> -->
     <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
     <style>
         :root {
@@ -407,19 +407,35 @@
                 width: 24px; height: 24px;
             }
         }
+        .license-link {
+            background-color: var(--header-bg);
+            display: flex;
+            padding: 5px 20px;
+            /*margin-left: auto; /* This pushes the link to the right */
+            text-decoration: none;
+            color: #91d8ea;
+        }
+
+        
+
+
     </style>
 </head>
 <body>
     <header>
         <div class="logo">
-            <div class="logo-image">
-                <!-- Replace the URL below with your actual logo image URL -->
+            <!-- <div class="logo-image">
+                
                 <img src="static/logo.png" alt="HUMOTO Logo">
-            </div>
+            </div> -->
             <!-- <div class="logo-icon">H</div> -->
             HUMOTO
         </div>
+
+        <a  class="license-link" href="Adobe Research License v1.1.pdf">License</a> &nbsp; &nbsp; <a class="license-link" href="README.md">Readme</a>
+        
     </header>
+    
 
     <div class="main-content">
         <div class="sidebar">
