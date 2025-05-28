@@ -17,3 +17,7 @@ Due to the high volume of requests, we are currently prioritizing license applic
 We are actively working on building a more efficient system for processing license requests. In the meantime, all requests are being handled manually. If you have sent an email but have not received a response within one week, it may have been inadvertently missed—please feel free to follow up with another email.
 
 We look forward to supporting your research and applications with HUMOTO. 
+
+## Questions about downloading issues from the webpage.
+Due to GitHub’s behavior, clicking the Download button may sometimes result in downloading incorrect .zip files instead of the intended files. As an alternative, we recommend downloading the animations directly from the GitHub repository:
+https://github.com/adobe-research/humoto
