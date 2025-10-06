@@ -18,6 +18,10 @@ We are actively working on building a more efficient system for processing licen
 
 We look forward to supporting your research and applications with HUMOTO. 
 
+## Licensed Institutions.
+We list the universities and research institutions that have obtained a research license for the full HUMOTO dataset in the link below. Please check the list to see if you are affiliate with those institutions and find the contact information for accessing the full HUMOTO dataset.
+https://adobe-research.github.io/humoto/licensed%20institutions
+
 ## Questions about downloading issues from the webpage.
 Due to GitHub’s behavior, clicking the Download button may sometimes result in downloading incorrect .zip files instead of the intended files. As an alternative, we recommend downloading the animations directly from the GitHub repository:
 https://github.com/adobe-research/humoto
