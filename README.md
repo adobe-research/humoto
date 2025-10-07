@@ -19,8 +19,32 @@ We are actively working on building a more efficient system for processing licen
 We look forward to supporting your research and applications with HUMOTO. 
 
 ## Licensed Institutions.
-We list the universities and research institutions that have obtained a research license for the full HUMOTO dataset in the link below. Please check the list to see if you are affiliate with those institutions and find the contact information for accessing the full HUMOTO dataset.
-https://adobe-research.github.io/humoto/licensed_institutions.md
+The following universities and research institutions have obtained a research license for the full HUMOTO dataset.
+If you are affiliated with any of these institutions, you can request access to the full dataset by contacting the designated person at your institution.
+
+To obtain the contact information of the designated person, please email yizho@adobe.com, chunhaoh@adobe.com and ubhattac@adobe.com.
+
+Stanford University
+The University of Texas at Austin
+University of Pennsylvania
+Northeastern University
+KAIST
+Rutgers University
+University of Maryland, College Park
+Jeonbuk National University(JBNU),South Korea.
+Queen Mary University of London
+University of Amsterdam
+Carnegie Mellon University
+Tel Aviv University
+University of Chicago 
+UCLA Computer Science
+University of Illinois Urbana-Champaign
+Texas A&M University
+University of Tübingen and MPI for informatics
+INSAIT
+Munich University of Applied Sciences
+Westlake University
+MIT
 
 ## Questions about downloading issues from the webpage.
 Due to GitHub’s behavior, clicking the Download button may sometimes result in downloading incorrect .zip files instead of the intended files. As an alternative, we recommend downloading the animations directly from the GitHub repository:
