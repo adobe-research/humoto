@@ -10,8 +10,8 @@ Northeastern University
 KAIST
 Rutgers University
 University of Maryland, College Park
-Vision and Learning Lab, Jeonbuk National University(JBNU),South Korea.
-Digital Environment Research Institute, Queen Mary University of London
+Jeonbuk National University(JBNU),South Korea.
+Queen Mary University of London
 University of Amsterdam
 Carnegie Mellon University
 Tel Aviv University
