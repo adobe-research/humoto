@@ -25,25 +25,45 @@ If you are affiliated with any of these institutions, you can request access to 
 To obtain the contact information of the designated person, please email yizho@adobe.com, chunhaoh@adobe.com and ubhattac@adobe.com.
 
 Stanford University
+
 The University of Texas at Austin
+
 University of Pennsylvania
+
 Northeastern University
+
 KAIST
+
 Rutgers University
+
 University of Maryland, College Park
-Jeonbuk National University(JBNU),South Korea.
+
+Jeonbuk National University(JBNU),South Korea
+
 Queen Mary University of London
+
 University of Amsterdam
+
 Carnegie Mellon University
+
 Tel Aviv University
+
 University of Chicago 
+
 UCLA Computer Science
+
 University of Illinois Urbana-Champaign
+
 Texas A&M University
+
 University of Tübingen and MPI for informatics
+
 INSAIT
+
 Munich University of Applied Sciences
+
 Westlake University
+
 MIT
 
 ## Questions about downloading issues from the webpage.
