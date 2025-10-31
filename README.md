@@ -1,12 +1,15 @@
+
+
 # HUMOTO Dataset Subset and Preview
 
 Welcome to the HUMOTO dataset webpage. This page provides access to a 10% subset of the HUMOTO dataset, as introduced in our paper [HUMOTO: A 4D Dataset of Mocap Human Object Interactions](https://arxiv.org/abs/2504.10414).
 
 ## Accessing the Full Dataset
 
-The full HUMOTO dataset contains 735 motion sequences, featuring Mixamo riggings conforming to exisiting over 2000 Mixamo animations at https://www.mixamo.com/. To request access to the complete HUMOTO dataset and inquire for a research or a commercial license, please contact Yi Zhou at yizho@adobe.com. In your email, kindly include:
+The full HUMOTO dataset contains 735 motion sequences, featuring Mixamo riggings conforming to exisiting over 2000 Mixamo animations at https://www.mixamo.com/. To request access to the complete HUMOTO dataset and inquire for a research license, please contact Chun-Hao Huang at chunhaoh@adobe, for commercial license, contacting Christie Shen at christies@adobe.com. If you want to contact Yi Zhou, please use zhouyisjtu2012@gmail.com since she has left Adobe. 
 
-For commercial license request and questions, please contact Yi Zhou through yizho@adobe.com.
+In your email, kindly include:
+
 
 - Your name and institutional affiliation.
 
@@ -22,7 +25,7 @@ We look forward to supporting your research and applications with HUMOTO.
 The following universities and research institutions have obtained a research license for the full HUMOTO dataset.
 If you are affiliated with any of these institutions, you can request access to the full dataset by contacting the designated person at your institution.
 
-To obtain the contact information of the designated person, please email yizho@adobe.com, chunhaoh@adobe.com and ubhattac@adobe.com.
+To obtain the contact information of the designated person, please email zhouyisjtu2012@gmail.com, chunhaoh@adobe.com and ubhattac@adobe.com.
 
 Stanford University
 
