@@ -92,6 +92,7 @@ Cartwheel
 Qihoo 360
 LY Corporation
 
+
 ## Questions about downloading issues from the webpage.
 Due to GitHub’s behavior, clicking the Download button may sometimes result in downloading incorrect .zip files instead of the intended files. As an alternative, we recommend downloading the animations directly from the GitHub repository:
 https://github.com/adobe-research/humoto
