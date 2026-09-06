@@ -28,68 +28,129 @@ If you are affiliated with any of these institutions, you can request access to 
 To obtain the contact information of the designated person, please email zhouyisjtu2012@gmail.com, chunhaoh@adobe.com and ubhattac@adobe.com.
 
 Beihang University (BUAA)
+
 Beijing Jiaotong University
+
 Brown University
+
 Carnegie Mellon University
+
 Cornell University
+
 ETH Zurich
+
 Hanyang University
+
 HKUST (Guangzhou)
+
 Hokkaido University
+
 Hong Kong University of Science and Technology
+
 Imperial College London
+
 INSAIT (Sofia University)
+
 IRISA / University of Rennes
+
 Jeonbuk National University
+
 KAIST
+
 Kyung Hee University
+
 Lehigh University
+
 Massachusetts Institute of Technology (MIT)
+
 Mohamed bin Zayed University of AI (MBZUAI)
+
 Munich University of Applied Sciences (HM)
+
 Nara Institute of Science and Technology (NAIST)
+
 National Taiwan University
+
 National University of Singapore
+
 Northeastern University
+
 Peking University
+
 Queen Mary University of London
+
 Rutgers University
+
 Seoul National University
+
 Southeast University
+
 Southern University of Science and Technology (SUSTech)
+
 Stanford University
+
 Sungkyunkwan University (SKKU)
+
 Syracuse University
+
 Technical University of Munich
+
 Tel Aviv University
+
 Texas A&M University
+
 The Chinese University of Hong Kong (CUHK)
+
 The University of Hong Kong (HKU)
+
 The University of Texas at Austin
+
 Tsinghua University
+
 UC Berkeley
+
 UCLA
+
 University of Alberta
+
 University of Amsterdam
+
 University of Chicago
+
 University of Illinois Urbana-Champaign
+
 University of Manchester
+
 University of Maryland, College Park
+
 University of Massachusetts Amherst
+
 University of Moratuwa
+
 University of Oulu
+
 University of Pennsylvania
+
 University of Tübingen
+
 Westlake University
+
 Wuhan University
+
 Xi'an Jiaotong University
+
 Xiamen University
 
 Meta
+
 MERL — Mitsubishi Electric Research Labs
+
 Krafton
+
 Cartwheel
+
 Qihoo 360
+
 LY Corporation
 
 
