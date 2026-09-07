@@ -6,10 +6,13 @@ Welcome to the HUMOTO dataset webpage. This page provides access to a 10% subset
 
 ## Accessing the Full Dataset
 
-The full HUMOTO dataset contains 735 motion sequences, featuring Mixamo riggings conforming to exisiting over 2000 Mixamo animations at https://www.mixamo.com/. To request access to the complete HUMOTO dataset and inquire for a research license, please contact Chun-Hao Huang at chunhaoh@adobe, for commercial license, contacting Christie Shen at christies@adobe.com. If you want to contact Yi Zhou, please use zhouyisjtu2012@gmail.com since she has left Adobe. 
+The full HUMOTO dataset contains 735 motion sequences, featuring Mixamo riggings conforming to exisiting over 2000 Mixamo animations at https://www.mixamo.com/. To request access to the complete HUMOTO dataset and inquire for a research license, please fill the following form.
+
+https://forms.office.com/r/3a7jgFi5UH
+
+please research license questions, contact Chun-Hao Huang at chunhaoh@adobe and Yi Zhou at yizho@adobe.com, for commercial license, contacting Christie Shen at christies@adobe.com.
 
 In your email, kindly include:
-
 
 - Your name and institutional affiliation.
 
